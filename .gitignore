@@ -1,0 +1,19 @@
+# 不要上传这些
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+
+# 上传这两个关键文件夹
+!Assets/
+!ProjectSettings/
+!Packages/
